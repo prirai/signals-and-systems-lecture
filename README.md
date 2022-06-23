@@ -1,11 +1,11 @@
 # Continuous- and Discrete-Time Signals and Systems - Theory and Computational Examples
 
-![Integration Test](https://github.com/spatialaudio//signals-and-systems-lecture/workflows/Integration%20Test/badge.svg)
+![Integration Test](https://github.com/prirai//signals-and-systems-lecture/workflows/Integration%20Test/badge.svg)
 
 This repository collects didactically edited [Jupyter](https://jupyter.org/)
 notebooks that introduce the theory of linear, time-invariant (LTI) signals and
 systems.
-Please take a look at the [static version](http://nbviewer.ipython.org/github/spatialaudio/signals-and-systems-lecture/blob/master/index.ipynb)
+Please take a look at the [static version](http://nbviewer.ipython.org/github/prirai/signals-and-systems-lecture/blob/master/index.ipynb)
 for a first glance.
 The continuous-time case, as well as the temporally sampled (discrete-time)
 case is covered.
@@ -26,8 +26,8 @@ if you like the notebooks.
 
 The Jupyter notebooks are accessible in various ways
 
-* Online as [static web pages](http://nbviewer.ipython.org/github/spatialaudio/signals-and-systems-lecture/blob/master/index.ipynb)
-* Online for [interactive usage](https://mybinder.org/v2/gh/spatialaudio/signals-and-systems-lecture/master?filepath=index.ipynb) with [binder](https://mybinder.org/)
+* Online as [static web pages](http://nbviewer.ipython.org/github/prirai/signals-and-systems-lecture/blob/master/index.ipynb)
+* Online for [interactive usage](https://mybinder.org/v2/gh/prirai/signals-and-systems-lecture/master?filepath=index.ipynb) with [binder](https://mybinder.org/)
 * Local for interactive usage on your computer
 
 Other online services (e.g. [Google Colaboratory](https://colab.research.google.com),
